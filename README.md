@@ -9,7 +9,7 @@ A simple full-stack web application to help you keep track of your job applicati
 - 📊 Responsive layout: Job list on the left, form on the right
 
 ## 📸 Overview 
-Here's a screenshot of the web app:
+Here's an overview of the web app:
 ![page](image.jpg)
 
 ## 🛠 Tech Stack 
