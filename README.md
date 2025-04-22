@@ -15,7 +15,6 @@ Here's an overview of the web app:
 ## 🛠 Tech Stack 
 #### Frontend 
 - React (CRA)
-- JavaScript
 - HTML, CSS
 
 #### Backend
