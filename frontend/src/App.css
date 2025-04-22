@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: helvetica;
+  background-color: #f4f4f9;
+  color: #333;
+  padding: 20px;
+}
+
+h1{
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px
+}
+
+h2 {
+  color: #333;
+  font-size: 20px;
+  text-align: none;
+  margin-bottom: 10px;
+}
+
+.container {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+button {
+  background-color: #5c6bc0;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #3f51b5;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input[type="date"] {
+  width: 100%;
+}
+
+form {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form input, form textarea {
+  margin-bottom: 15px;
+}
+
+.job-card {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.job-card h3 {
+  margin-bottom: 10px;
+}
+
+.job-card p {
+  margin-bottom: 10px;
+}
+
+.job-card button {
+  background-color: #e57373;
+  margin-left: 10px;
+}
+
+.job-card button:hover {
+  background-color: #f44336;
+}
