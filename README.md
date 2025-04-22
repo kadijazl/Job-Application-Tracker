@@ -8,6 +8,10 @@ A simple full-stack web application to help you keep track of your job applicati
 - ❌ Delete job entries
 - 📊 Responsive layout: Job list on the left, form on the right
 
+## 📸 Overview 
+Here's a screenshot of the web app:
+![page](image.jpg)
+
 ## 🛠 Tech Stack 
 #### Frontend 
 - React (CRA)
