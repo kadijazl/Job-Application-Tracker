@@ -2,7 +2,7 @@
 
 A simple full-stack web application to help you keep track of your job applications. Built with **React** (frontend), **FastAPI** (backend), and **PostgreSQL** (database).
 
-### ✨ Features
+## ✨ Features
 
 - 📝 Add new job applications
 - 📋 View a list of all job applications
@@ -10,7 +10,7 @@ A simple full-stack web application to help you keep track of your job applicati
 - ❌ Delete job entries
 - 📊 Responsive layout: Job list on the left, form on the right
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 #### Frontend
 - React (CRA)
 - JavaScript
